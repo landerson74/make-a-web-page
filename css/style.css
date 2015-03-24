@@ -1,0 +1,18 @@
+body {
+  background-color : DarkCyan;
+}
+#topic {
+  text-align: center;
+}
+div {height: 220px;
+width: 1800px;
+background-color: #ee3e80;
+}
+
+ul {
+  list-style: inside circle;
+  width: 700px;
+}
+li {
+  margin: 8px 0px 0px 0px;
+}
